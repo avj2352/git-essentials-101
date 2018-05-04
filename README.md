@@ -118,3 +118,5 @@ git merge
 - Always Branch out as soon as git clone / git pull is performed
 - Give meaningful - proper highlight Commit messages
 - Lastly - but NOT LEAST - Comment your code appropriately 
+
+# Simple Change
