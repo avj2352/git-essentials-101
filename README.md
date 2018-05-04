@@ -122,6 +122,7 @@ git merge
 # Simple Change
 
 - Example of a Git stash
+- Whatever I add here, only gets commited to `Branch A`
 
 ```js
 console.log(`Hello World`);
