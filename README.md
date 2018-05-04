@@ -123,6 +123,7 @@ git merge
 
 - Example of a Git stash
 - Whatever I add here, only gets commited to `Branch A`
+- Whatever added here, should goto `Branch B`
 
 ```js
 console.log(`Hello World`);
