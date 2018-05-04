@@ -120,3 +120,5 @@ git merge
 - Lastly - but NOT LEAST - Comment your code appropriately 
 
 # Simple Change
+
+- Example of a Git stash
