@@ -122,3 +122,7 @@ git merge
 # Simple Change
 
 - Example of a Git stash
+
+```js
+console.log(`Hello World`);
+```
